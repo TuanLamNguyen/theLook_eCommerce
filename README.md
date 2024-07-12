@@ -20,4 +20,5 @@ Data: Kaggle
 Code: GitHub
 
 Click here for the detailed analysis and cohort study.
-https://tuanlamnguyen.notion.site/Portfolio-0b0fc8e5d58a42e59808db6157af7a2e?p=1bc370b0a4334bdf8b49bc47e033e364&pm=c
+
+https://tuanlamnguyen.notion.site/Unlocking-Insights-EDA-and-Cohort-Analysis-for-theLook-eCommerce-1bc370b0a4334bdf8b49bc47e033e364
